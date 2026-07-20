@@ -1,11 +1,9 @@
 # Interview Roadmap
 
-After completing every module, I revise the concepts by answering interview-oriented questions related to that module.
+Interview questions will be added after completing each module.
 
-Progress will be updated as each module is completed.
+Current Progress
 
----
-
-Completed Modules
-
-- None
+- ✅ Programming Fundamentals
+- ✅ Iterative Statements
+- ✅ Number Theory

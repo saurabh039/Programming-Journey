@@ -1,0 +1,21 @@
+// Purpose  : Display a message using a loop.
+// Concepts : Functions, for Loop
+// New      : Static Function
+// Change   : Repeated statements → Loop.
+
+#include<stdio.h>
+//Static function
+void Display()
+{
+    int iCnt = 0;
+    for(iCnt = 1; iCnt <=4; iCnt++)
+    {
+        printf("Jay Ganesh...\n");
+    }
+}
+int main()
+{      
+    Display();  
+    
+    return 0;
+}

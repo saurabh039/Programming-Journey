@@ -1,15 +1,23 @@
-# Progress Tracker
+# Programming Journey Progress
 
-| Module | Status |
-|---------|--------|
-| Repository Setup | ✅ Completed |
+## Completed Modules
+
+| Module | Programs | Status |
+|---------|-----------|--------|
+| 01. Programming Fundamentals | 001 – 021 | ✅ |
+| 02. Iterative Statements | 022 – 042 | ✅ |
+| 03. Number Theory | 043 – 060 | ✅ |
 
 ---
 
-## Statistics
+## Overall Statistics
 
-Modules Completed: **0**
+- Programs Completed : **60**
+- Languages Covered : **C, C++, Java**
+- Modules Completed : **3**
 
-Programs Revised: **0**
+---
 
-Interview Rounds Completed: **0**
+## Next Milestone
+
+📌 Complete Module 04 and continue expanding the Programming Journey.
