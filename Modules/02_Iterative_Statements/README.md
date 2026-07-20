@@ -1,12 +1,18 @@
-# Iterative Statements
+# Module 02 – Iterative Statements
+
+## Overview
+
+This module focuses on iterative programming techniques using loops. It develops the ability to solve repetitive computational problems efficiently.
+
+---
 
 ## Topics Covered
 
 - for Loop
 - while Loop
 - Nested Loops
-- Dynamic Iteration
 - Reverse Iteration
+- Dynamic Iteration
 - Number Patterns
 - Character Patterns
 - Loop Optimization
@@ -15,13 +21,17 @@
 
 ## Programs Included
 
-Program022 – Program042
+**Program022 – Program042**
 
 ---
 
-## Learning Outcome
+## Skills Developed
 
-Learned how to solve repetitive problems efficiently using different iterative techniques and loop optimizations.
+- Loop Construction
+- Pattern Generation
+- Efficient Iteration
+- Nested Loop Logic
+- Algorithm Visualization
 
 ---
 
@@ -31,4 +41,4 @@ Learned how to solve repetitive problems efficiently using different iterative t
 - while Loop
 - Nested Loops
 - Pattern Printing
-- Loop Optimization
+- Time Complexity of Loops

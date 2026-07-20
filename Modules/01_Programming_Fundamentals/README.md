@@ -1,4 +1,10 @@
-# Programming Fundamentals
+# Module 01 – Programming Fundamentals
+
+## Overview
+
+This module builds the foundation of programming using C, C++, and Java. It introduces the essential concepts required before moving to problem-solving and algorithm design.
+
+---
 
 ## Topics Covered
 
@@ -8,27 +14,33 @@
 - Functions
 - Parameters
 - Return Values
-- Boolean
-- Java Basics
+- Boolean Values
+- Basic Java Programming
 
 ---
 
-## Practice Files
+## Programs Included
 
-Program001 – Program021
+**Program001 – Program021**
 
 ---
 
-## Learning Outcome
+## Skills Developed
 
-Built a strong foundation in programming using C, C++, and Java by understanding the core concepts required before solving algorithmic problems.
+- Writing structured programs
+- Creating reusable functions
+- Passing parameters
+- Returning values
+- Understanding Boolean logic
+- Building programming fundamentals
 
 ---
 
 ## Interview Focus
 
-- Functions
-- Parameters
+- Function Design
+- Call by Value
 - Return Values
-- Boolean
+- Boolean Logic
 - Program Structure
+- Input & Output

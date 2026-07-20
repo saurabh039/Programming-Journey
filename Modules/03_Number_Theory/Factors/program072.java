@@ -1,0 +1,22 @@
+// Purpose  : Display factors of a number.
+// Concepts : Java, for Loop
+// New      : Java Implementation
+// Change   : C program converted to Java.
+// 
+
+class program72
+{
+    public static void main(String A[])
+    {
+        int iNo = 12;
+        int i = 0;
+
+        for(i = 1; i <= (iNo / 2); i++)
+        {
+            if((iNo % i) == 0)
+            {
+                System.out.println(i);
+            }
+        }
+    }
+}

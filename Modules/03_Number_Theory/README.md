@@ -1,10 +1,18 @@
-# Number Theory
+# Module 03 – Number Theory
+
+## Overview
+
+This module introduces mathematical programming techniques used in problem-solving and coding interviews. It covers divisibility, factors, prime numbers, digit manipulation, perfect numbers, and factorial algorithms.
+
+---
 
 ## Topics Covered
 
 - Divisibility
 - Factors
 - Prime Numbers
+- Perfect Numbers
+- Factorial
 - Digit Operations
 
 ---
@@ -14,19 +22,26 @@
 - Divisibility
 - Factors
 - Prime_Numbers
+- Perfect_Number
+- Factorial
 - Digit_Operations
 
 ---
 
 ## Programs Included
 
-Program043 – Program060
+**Program043 – Program091**
 
 ---
 
-## Learning Outcome
+## Skills Developed
 
-Learned mathematical programming techniques including divisibility, factorization, prime number algorithms, and digit manipulation.
+- Divisibility Testing
+- Factor Generation
+- Prime Number Algorithms
+- Perfect Number Detection
+- Factorial Computation
+- Digit Manipulation Techniques
 
 ---
 
@@ -35,5 +50,7 @@ Learned mathematical programming techniques including divisibility, factorizatio
 - Divisibility
 - Factors
 - Prime Numbers
-- Time Complexity
+- Perfect Numbers
+- Factorial
 - Digit Extraction
+- Mathematical Algorithms
