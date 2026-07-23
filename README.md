@@ -29,7 +29,10 @@ Programming-Journey/
 ├── Modules/
 │   ├── 01_Programming_Fundamentals/
 │   ├── 02_Iterative_Statements/
-│   └── 03_Number_Theory/
+│   ├── 03_Number_Theory/
+│   ├── 04_Arrays/
+│   ├── 05_Memory_Management/
+│   └── 06_Array_Algorithms/
 │
 └── tools/
 ```
@@ -43,30 +46,31 @@ Programming-Journey/
 | Programming Fundamentals | ✅ |
 | Iterative Statements | ✅ |
 | Number Theory | ✅ |
+| Arrays | ✅ |
+| Memory Management | ✅ |
 
 ---
 
 ## 📈 Current Progress
 
-- **Programs Completed:** 91
+- **Programs Completed:** 141
 - **Languages:** C, C++, Java
-- **Modules Completed:** 3
+- **Modules Completed:** 5
 
 ---
 
 ## 📖 Documentation
 
-- Progress Tracker
-- Interview Roadmap
-- Interview Cheat Sheet
+- 📘 Progress Tracker
+- 🛣️ Interview Roadmap
+- 🚀 Interview Cheat Sheet
 
 ---
 
 ## 🚀 Upcoming Modules
 
-- Arrays
-- Memory Management
 - Array Algorithms
+- Pattern Printing
 - Strings
 - Bitwise Operators
 - File Handling
@@ -76,4 +80,4 @@ Programming-Journey/
 
 ## 🎯 Repository Goal
 
-This repository is organized **by programming concepts rather than programming languages**, making it easier to revise topics for coding interviews and strengthen problem-solving skills progressively.
+This repository is organized **by programming concepts rather than programming languages**, making it easier to revise topics for coding interviews while progressively strengthening problem-solving skills.
