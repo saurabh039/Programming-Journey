@@ -81,6 +81,9 @@
 | Program106 | Encapsulation | 🔴 | ✅ | Access Specifiers |
 | Program108 | Average of Array | 💡 | ✅ | Average Calculation |
 | Program109 | Array Memory Layout | 🔴 | ✅ | `Arr`, `&Arr`, `sizeof` |
+| Program111 | Array Traversal (C) |   💡  |     ✅     | Pointer-style Traversal |
+| Program117 | Reverse Traversal   |   💡  |     ✅     | Traversal Pattern       |
+
 
 ---
 
@@ -96,6 +99,11 @@
 | Program124 | NULL Check | 🔴 | ✅ | Memory Validation |
 | Program125 | Assignment vs Comparison | 🔴 | ✅ | `=` vs `==` |
 | Program126 | Defensive Programming | 🔴 | ✅ | `NULL == ptr` Style |
+| Program127 | Pointer Arithmetic         |   🔴  |     ✅     | Address Calculation      |
+| Program130 | Dynamic Memory Traversal   |   💡  |     ✅     | Runtime Arrays           |
+| Program131 | Pointer-Based Array Access |   💡  |     ✅     | Array & Pointer Relation |
+| Program141 | Call By Address            |   🔴  |     ✅     | Function & Pointer       |
+
 
 ---
 
@@ -109,8 +117,59 @@
 | Program142 | Maximum Element | 💡 | ✅ | Maximum Logic |
 | Program144 | Maximum (Dynamic Array) | 🔴 | ✅ | Dynamic Memory + Arrays |
 | Program147 | Frequency Count | 💡 | ✅ | Frequency Technique |
+| Program133 | Search using Flag       |   💡  |     ✅     | Boolean Flag        |
+| Program134 | First Occurrence        |   🟡  |     ✅     | Searching           |
+| Program136 | Count Frequency         |   💡  |     ✅     | Frequency Logic     |
+| Program138 | Minimum Element         |   💡  |     ✅     | Minimum Algorithm   |
+| Program139 | Maximum Element         |   💡  |     ✅     | Maximum Algorithm   |
+| Program145 | Minimum (Dynamic Array) |   🔴  |     ✅     | Dynamic Memory      |
+| Program149 | Average (Dynamic Array) |   💡  |     ✅     | Average Calculation |
+| Program150 | Array Modification      |   🟡  |     ✅     | Update Elements     |
+
 
 ---
+
+# Module 07 – Pattern Printing
+
+| Program | Topic | Badge | Interview | Revision Focus |
+|:------:|---------|:------:|:---------:|----------------|
+| Program152 | First Pattern | 🟢 | ✅ | Basic Pattern Logic |
+| Program154 | Conditional Pattern | 💡 | ✅ | Modulus Conditions |
+| Program161 | Optimized Symmetric Pattern | ⚡ | ✅ | Single Loop Optimization |
+| Program163 | Formula-Based Pattern | ⚡ | ✅ | Mathematical Optimization |
+| Program164 | First Nested Loop Pattern | 🟢 | ✅ | Matrix Traversal |
+| Program166 | Column Pattern | 💡 | ✅ | Column Logic |
+| Program167 | Row Pattern | 💡 | ✅ | Row Logic |
+| Program170 | Column Conditional Pattern | 💡 | ✅ | Alternating Symbols |
+| Program174 | ASCII to Character | 🟢 | ✅ | Character Conversion |
+| Program175 | Character Iteration | 💡 | ✅ | char Loop |
+| Program177 | Mixed Number & Character Pattern | 🟡 | ✅ | Conditional Pattern |
+| Program179 | Continuous Character Pattern | 💡 | ✅ | Nested Loop State |
+| Program181 | Variable Initialization in Loop | 💡 | ✅ | Cleaner Loop Design |
+| Program184 | Rectangle Border | 🟡 | ✅ | Boundary Logic |
+| Program185 | Hollow Rectangle | 🟡 | ✅ | Hollow Pattern |
+| Program186 | Primary Diagonal | 🟡 | ✅ | i == j |
+| Program188 | Border + Diagonal | 🔴 | ✅ | Compound Conditions |
+| Program189 | Lower Triangle | 🟡 | ✅ | Matrix Logic |
+| Program190 | Upper Triangle | 🟡 | ✅ | Matrix Logic |
+| Program195 | Optimized Triangle | ⚡ | ✅ | Loop Optimization |
+
+# Module 08 – File Handling
+
+| Program | Topic | Badge | Interview | Revision Focus |
+|:------:|---------|:------:|:---------:|----------------|
+| Program196 | creat() | 🔴 | ✅ | File Creation |
+| Program197 | File Descriptor | 🔴 | ✅ | File Descriptor |
+| Program198 | unlink() | 🔴 | ✅ | File Deletion |
+| Program200 | open() | 🔴 | ✅ | File Opening |
+| Program201 | close() | 🔴 | ✅ | Resource Management |
+| Program202 | Multiple File Descriptors | 💡 | ✅ | Descriptor Allocation |
+| Program203 | write() | 🔴 | ✅ | File Writing |
+| Program204 | read() | 🔴 | ✅ | File Reading |
+| Program207 | Buffer Initialization | 💡 | ✅ | Safe Buffer Handling |
+| Program208 | write() to stdout | 🟡 | ✅ | Standard Output |
+| Program210 | Manual String Representation | 💡 | ✅ | '\0' Terminator |
+
 
 # 🎯 High Priority Revision
 
@@ -122,6 +181,10 @@
 - Program077
 - Program086
 - Program092
+Program152
+Program164
+Program174
+Program196
 
 ---
 
@@ -129,6 +192,14 @@
 
 - Program080
 - Program132
+Program184
+Program185
+Program186
+Program189
+Program190
+Program200
+Program203
+Program204
 
 ---
 
@@ -140,6 +211,11 @@
 - Program125
 - Program126
 - Program144
+Program188
+Program197
+Program198
+Program201
+Program210
 
 ---
 
@@ -154,6 +230,14 @@
 - Program102
 - Program122
 - Program147
+Program154
+Program163
+Program166
+Program167
+Program177
+Program179
+Program202
+Program207
 
 ---
 
@@ -162,11 +246,13 @@
 - Program055
 - Program059
 - Program084
-
+Program161
+Program163
+Program195
 ---
 
 # 📊 Repository Coverage
 
-- **Programs Covered:** 001 – 150
-- **Modules Covered:** 6
-- **Repository Version:** v2.0
+- **Programs Covered:** 001 – 210
+- **Modules Covered:** 8
+- **Repository Version:** v3.0
