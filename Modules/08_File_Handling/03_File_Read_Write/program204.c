@@ -1,0 +1,37 @@
+/*
+---------------------------------------------------------
+Purpose  : Read data from a file.
+Concepts : read(), File Descriptor, Buffer.
+New      : Introduction to read() system call.
+Change   : Reads a fixed number of bytes from a file.
+---------------------------------------------------------
+*/
+
+#include<stdio.h>
+#include<fcntl.h>
+#include<unistd.h>
+
+int main()
+{
+    int fd = 0, iRet = 0;
+    char FileName[20];
+    char Data[50];
+
+    printf("Enter the name of file : \n");
+    scanf("%s",FileName);
+
+    fd = open(FileName, O_RDWR);
+    if(fd == -1)
+    {
+        printf("Unable to open\n");
+        return -1;
+    }
+
+    iRet = read(fd,Data,5);
+
+    printf("%d bytes gets succesfully read\n",iRet);
+
+    close(fd);
+
+    return 0;
+}
