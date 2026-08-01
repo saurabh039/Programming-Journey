@@ -41,21 +41,27 @@ Programming-Journey/
 
 ## 📚 Completed Modules
 
-| Module | Status |
-|---------|--------|
-| Programming Fundamentals | ✅ |
-| Iterative Statements | ✅ |
-| Number Theory | ✅ |
-| Arrays | ✅ |
-| Memory Management | ✅ |
+| Module                   | Status |
+| ------------------------ | ------ |
+| Programming Fundamentals | ✅      |
+| Iterative Statements     | ✅      |
+| Number Theory            | ✅      |
+| Arrays                   | ✅      |
+| Memory Management        | ✅      |
+| Array Algorithms         | ✅      |
+| Pattern Printing         | ✅      |
+| File Handling            | ✅      |
+| String Processing        | ✅      |
+| Generic Programming      | ✅      |
+
 
 ---
 
 ## 📈 Current Progress
 
-- **Programs Completed:** 141
+- **Programs Completed:** 270
 - **Languages:** C, C++, Java
-- **Modules Completed:** 5
+- **Modules Completed:** 10
 
 ---
 
@@ -69,12 +75,15 @@ Programming-Journey/
 
 ## 🚀 Upcoming Modules
 
-- Array Algorithms
-- Pattern Printing
-- Strings
-- Bitwise Operators
-- File Handling
-- Data Structures
+- Linked List
+- Stack
+- Queue
+- Searching
+- Sorting
+- Recursion
+- Trees
+- Graphs
+- Dynamic Programming
 
 ---
 
