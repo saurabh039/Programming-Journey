@@ -1,0 +1,61 @@
+/*
+---------------------------------------------------------
+Purpose  : Insert a node at the beginning.
+Concepts : InsertFirst(), Dynamic Memory.
+New      : Creates and links a new head node.
+Change   : Implements first insertion algorithm.
+---------------------------------------------------------
+*/
+
+#include<stdio.h>
+#include<stdlib.h>
+
+#pragma pack(1)
+struct node
+{
+    int data;
+    struct node *next;
+};
+
+typedef struct node NODE;
+typedef struct node * PNODE;
+typedef struct node ** PPNODE;
+
+void InsertFirst(PPNODE first, int no)
+{
+    PNODE newn = NULL;
+    newn = (PNODE)malloc(sizeof(NODE));
+    newn -> data = no;
+    newn -> next = NULL;
+
+    if ((*first) == NULL)   //LL is empty 
+    {    
+        (*first) = newn;
+    }
+    else                  //LL contain atleast 1 mnde
+    {
+        newn->next = (*first);
+        (*first) = newn;
+    }
+}
+
+
+void InsertLast(PPNODE first, int no)
+{
+    PNODE newn = NULL;
+    newn = (PNODE)malloc(sizeof(NODE));
+    newn -> data = no;
+    newn -> next = NULL;
+
+}
+
+int main()
+{
+    PNODE head = NULL;
+
+    InsertFirst(&head,51);
+    InsertFirst(&head,21);
+    InsertFirst(&head,11);
+
+    return 0;
+}
